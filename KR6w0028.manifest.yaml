@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR6w0028/v1
+canonical_location: https://kanripo.org/bkk/KR6w0028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 因明入正理論後記
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D28/D28n8885.xml
+    old_id: D28n8885
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0028_000.yaml, hash: 'sha256:b48bb37e3afe49ca3c9e754a4796efd900948109e71f7addd2757b212326ce00'}
+  - {seq: 1, filename: KR6w0028_001.yaml, hash: 'sha256:664467bdc3409e83d16f05cd87150b74ea574a54f6d8cf4f8aa36b1e821072e3'}
+  - {seq: 2, filename: KR6w0028_002.yaml, hash: 'sha256:7805163eaba1d917feb299b5608e1edfa05a5f41cf106a9752782ec968db8a9f'}
+  - {seq: 3, filename: KR6w0028_003.yaml, hash: 'sha256:8a095acf28491d468ef33792485984fdf1289bfa58c91ebf21319531e2e5400d'}
+  - {seq: 4, filename: KR6w0028_004.yaml, hash: 'sha256:13104defe10596894aa7e00fdc67159baab945b960a9e3b554cdea2d09a3d71f'}
+  - {seq: 5, filename: KR6w0028_005.yaml, hash: 'sha256:cd4eccde4d3c737cefea1f2374cb925bc467bed1218fc5afc5d155de53145129'}
+  - {seq: 6, filename: KR6w0028_006.yaml, hash: 'sha256:2f049b9bf2d6697c2e2ea80dcce16fd34ae3803f3e641ecdf9f09a480045536c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0028_000.markers.yaml, hash: 'sha256:4c72ec51d7919b82b7c4824e392a545796609c5e60cfc161daf0ebe8e792a783'}
+  - {seq: 1, role: markers, filename: assets/KR6w0028_001.markers.yaml, hash: 'sha256:b11841d64c5023cdfdbcbf6eba82539892f0a634ccd245eef8e0c1e7bd000223'}
+  - {seq: 2, role: markers, filename: assets/KR6w0028_002.markers.yaml, hash: 'sha256:4ea5a6e6e61dd93bca533d2b3be79cca3aa8768492acc97d6341ed087007a40b'}
+  - {seq: 3, role: markers, filename: assets/KR6w0028_003.markers.yaml, hash: 'sha256:fc9c1839c3db5169ca419dedf2a4f79b4a3038b71f21f252acb64bde70f5829c'}
+  - {seq: 4, role: markers, filename: assets/KR6w0028_004.markers.yaml, hash: 'sha256:3bdd3877489b976afb422e6aa6fa36179562f4aa4a064a2e5d2832b36fbd8c15'}
+  - {seq: 5, role: markers, filename: assets/KR6w0028_005.markers.yaml, hash: 'sha256:854ab570349000c799a19f7b8b46742c555d8ea5ff85c9a9da04d9ac6441d82e'}
+  - {seq: 6, role: markers, filename: assets/KR6w0028_006.markers.yaml, hash: 'sha256:1dbdaaa64a5173be81964858c0ff9b0b7960190a77959ff995ddddf2a9fe9b74'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0028_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0028_D_000-mulu-2
+    span:
+    - front
+    - 1493
+    - 1493
+  label: 後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0028_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 7411
+  label: 因明入正理論後記首卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0028_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 5942
+  label: 因明入正理論後記二卷
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0028_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 5909
+  label: 因明入正理論後記三卷
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0028_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 8977
+  label: 因明入正理論後記四卷
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0028_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 5681
+  label: 因明入正理論後記五卷
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0028_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 9244
+  label: 因明入正理論後記六卷
+  type: juan
+  level: 1
+hash: sha256:dcf38be153f3f9397c56f5a63d114d3395d8cc5f04749f504078b12e43ce213c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
